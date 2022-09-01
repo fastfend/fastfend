@@ -2,7 +2,7 @@
 
 ### My projects
 
-2022 - [OnlineStore](https://github.com/fastfend/JobTask-HaierACBridge)<br />
+2022 - [OnlineStore](https://github.com/fastfend/JobTask-OnlineStore)<br />
 Project based around creating scalable online game store service in Spring stack<br />
 
 2022 - [ShireBank](https://github.com/fastfend/JobTask-ShireBank)<br />
