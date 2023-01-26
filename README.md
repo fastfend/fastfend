@@ -25,7 +25,7 @@ where kids could have safe space to communicate with each other
 
 ### Contact
 
-<a href="https://linkedin.com/in/piotr.stadnicki"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/piotrstadnicki"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pitstadnicki@gmail.com"><img src="https://img.shields.io/badge/-pitstadnicki@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ![](https://komarev.com/ghpvc/?username=fastfend)
